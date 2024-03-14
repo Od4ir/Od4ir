@@ -10,7 +10,7 @@ So, my name is Odair and I'm a Computer Sciente student at the Institute of Math
 - 🌐 My other social medias:
   - [My LinkedIn](https://www.linkedin.com/in/odairgoncalves/);
   - [My Art Instagram](https://www.instagram.com/od4rt/);
-  - [My GitLab](#https://gitlab.com/Od4ir);
+  - [My GitLab](https://gitlab.com/Od4ir);
 - 📞 To contact me:
   - 📧 - [od4ircode@gmail.com](mailto:od4ircode@gmail.com);
 
