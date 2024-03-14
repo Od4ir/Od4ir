@@ -34,7 +34,8 @@ So, my name is Odair and I'm a Computer Sciente student at the Institute of Math
 - (Soon...) Neural Networks and Perceptrons - Redes Neurais e Perceptrons;
 - (Soon...) Convolutional Neural Networks - Redes Neurais Convoluitionais;
 
-### 🌐 Web Projects:
+### 🌐 Web Projects and Contents:
 - [Website CPQs Abertas](https://gitlab.com/cpqs-abertas) (GitLab);
 - [Website Alumni Maratona de Programação](https://github.com/Portal-Maratonas);
 - [Website Symcomp - Semana da Computação](https://github.com/Xnths/symcomp);
+- [HTML & CSS Studies](https://github.com/Od4ir/Estudos_HTML);
