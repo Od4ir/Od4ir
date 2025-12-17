@@ -15,10 +15,10 @@ So, my name is Odair and I'm a Computer Sciente student at the Institute of Math
   - 📧 - [od4ircode@gmail.com](mailto:od4ircode@gmail.com);
 
 ## 🌱 My Projects: 
-- 🌟 [HarpIA Frontend](https://github.com/C4AI/HarpIA_Frontend)
+- 🌟 [HarpIA Frontend](https://github.com/C4AI/HarpIA_Frontend);
 - 🌐 [CPQs Abertas' Website](http://hub-cpqs-abertas.s3-website-sa-east-1.amazonaws.com/);
 - 💾 [SymComp - Computer Symposium](https://www.instagram.com/symcomp.imeusp?igsh=MTYybmM0eTBicjh3cQ==);
-- 🌻 [Tecs - Social Computing](https://github.com/tecs-usp)
+- 🌻 [Tecs - Social Computing](https://github.com/tecs-usp);
 
 ## 🔎 Explore my Repositories:
 
