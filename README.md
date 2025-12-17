@@ -14,11 +14,11 @@ So, my name is Odair and I'm a Computer Sciente student at the Institute of Math
 - 📞 To contact me:
   - 📧 - [od4ircode@gmail.com](mailto:od4ircode@gmail.com);
 
-## 🌱 My Current Projects: 
-- 🌱 I'm currently learning about Machine Learning and Front End Development;
-- 🌐 Currently working at the website for [CPQs Abertas' Project](http://hub-cpqs-abertas.s3-website-sa-east-1.amazonaws.com/);
-- 💾 Working on designs, art, [websites] and other projects for my extesion group at college [SymComp - Computer Symposium](https://www.instagram.com/symcomp.imeusp?igsh=MTYybmM0eTBicjh3cQ==);
-
+## 🌱 My Projects: 
+- 🌟 [HarpIA Frontend](https://github.com/C4AI/HarpIA_Frontend)
+- 🌐 [CPQs Abertas' Website](http://hub-cpqs-abertas.s3-website-sa-east-1.amazonaws.com/);
+- 💾 [SymComp - Computer Symposium](https://www.instagram.com/symcomp.imeusp?igsh=MTYybmM0eTBicjh3cQ==);
+- 🌻 [Tecs - Social Computing](https://github.com/tecs-usp)
 
 ## 🔎 Explore my Repositories:
 
@@ -31,8 +31,6 @@ So, my name is Odair and I'm a Computer Sciente student at the Institute of Math
 ### 🌟 Machine Learning:
 - [Linear Regression](https://github.com/Od4ir/ML-Linear-Regression) - Regressão Linear;
 - [Convolutional Neural Networks](https://github.com/Od4ir/ML-Convolutional_Neural_Network) - Redes Neurais Convolucionais;
-- (Soon...) Softmax Regression - Regressão Softmax;
-- (Soon...) Neural Networks and Perceptrons - Redes Neurais e Perceptrons;
 
 ### 🌐 Web Projects and Contents:
 - [Website CPQs Abertas](https://gitlab.com/cpqs-abertas) (GitLab);
