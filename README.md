@@ -27,7 +27,7 @@ So, my name is Odair and I'm a Computer Sciente student at the Institute of Math
 - [Programming Techniques I](https://github.com/Od4ir/MAC0216_Tecnicas_de_Programacao) - MAC 0216 - Técnicas de Programação I;
 - [Algorithms and Data Structures 2](https://github.com/Od4ir/MAC0323_Algoritmos_e_Estruturas_de_Dados_2) - MAC 0323 - Algoritmos e Estruturas de Dados 2;
 - [Sorting Algorithms](https://github.com/Od4ir/Algoritmos-de-Ordenacao) - Algoritmos de Ordenação;
-- 
+
 ### 🌟 Machine Learning:
 - [Linear Regression](https://github.com/Od4ir/ML-Linear-Regression) - Regressão Linear;
 - [Convolutional Neural Networks](https://github.com/Od4ir/ML-Convolutional_Neural_Network) - Redes Neurais Convolucionais;
